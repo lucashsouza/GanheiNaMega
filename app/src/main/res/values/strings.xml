@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GanheiNaMega</string>
+    <string name="title">Boa Sorte!</string>
+    <string name="number_hint">Digite um número entre 6 e 15</string>
+    <string name="number_generator">Gerar Números</string>
+    <string name="last_bet">Última aposta: 48 - 60 - 44 - 32 - 1 - 33 - 3 - 51 - 24 - 38 - 40 - 52 - 20 - 57 - 50</string>
+</resources>
